@@ -1,7 +1,7 @@
 name: sa_shared_preference_lego
 description: "Shared preference under simple architecture framework."
 #publish_to: 'none'
-#repository: https://github.com/melodysdreamj/lego
+repository: https://github.com/flutter-lego/sa_shared_preference_lego
 
 version: 1.0.0
 
